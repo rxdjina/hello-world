@@ -1,3 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
-This is an example for CEN4090L.
+# About me
+My name is Rodjina.
